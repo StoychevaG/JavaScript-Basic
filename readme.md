@@ -1,39 +1,26 @@
-# Programming Basics – SoftUni JavaScript Course
+# First Steps in Coding
 
-This folder contains all the topics and exercises from the **Programming Basics** module at SoftUni, where I am learning JavaScript step by step.
+This folder contains solutions from the first topic in the Programming Basics module at SoftUni.
 
-## Contents
+## 📘 Lecture Tasks
+1. Hello SoftUni
+2. Nums 1 to 10
+3. Square Area
+4. Inches to Centimeters
+5. Greeting by Name
+6. Concatenate Data
 
-Each topic is organized into its own folder, with separate subfolders for lectures and exercises.
-
-### Topics included so far:
-
-- 01. First Steps in Coding
-- 02. Conditional Statements
-- 03. Loops
-- 04. Drawing with Loops
-- 05. Advanced Loops
-- 06. Nested Loops
-- 07. Exam Preparation
+📁 Subfolder: `1.First Steps in Coding/`
 
 ---
 
-## Folder structure example:
+## 🧪 Exercise Tasks
+1. Project Creation
+2. Radians to Degrees
+3. Deposit Calculator
+4. Vacation Books List
+5. Supplies for School
+6. Repainting
+7. Fish Tank
 
-Programming Basics/
-├── 01. First Steps in Coding/
-│ ├── Lecture/
-│ └── Exercise/
-├── 02. Conditional Statements/
-│ ├── Lecture/
-│ └── Exercise/
-
----
-
-## Goal
-
-To document my learning progress and practice programming fundamentals through solving various small JavaScript tasks and problems.
-
----
-
-> 🚀 *Step by step, task by task — building a solid foundation in JavaScript!*
+📁 Subfolder: `1.First Steps in Coding - Exercise/`
